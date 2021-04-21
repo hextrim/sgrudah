@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = sgrudah/
+omit = venv/*
+
+[xml]
+output = coverage.xml
